@@ -1,7 +1,5 @@
 from collections import deque
 
-
-
 if __name__ == '__main__':
     d = deque()
     N = int(input())
@@ -13,3 +11,4 @@ if __name__ == '__main__':
             eval('d.' + lInput[0] + '(' + lInput[1] + ')')
 
     print(d)
+# Hacker Rank Tasks
