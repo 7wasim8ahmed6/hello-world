@@ -13,3 +13,4 @@ if __name__ == '__main__':
             eval('d.' + lInput[0] + '(' + lInput[1] + ')')
 
     print(d)
+# Hacker Rank Tasks
